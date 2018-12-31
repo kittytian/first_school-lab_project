@@ -1,0 +1,58 @@
+.tab-hover{
+    cursor:pointer;
+}
+.tab-hover:hover{
+    color:white;
+    background-color:#c7c7c7;
+}
+.g-bottom{
+}
+.g-bottom>div{
+    height:500px;
+    margin-bottom:20px;
+}
+.g-bottom>div>div{
+    height:500px;
+    padding:0;
+}
+.g-title{
+    margin:0;
+    height:40px!important;
+    width:100%;
+    background-color:#D1D1D1;
+}
+
+.g-c-title{
+
+}
+.g-bottom2>div{
+    height:500px;
+    margin:0 20px 0 0;
+    margin-bottom:20px;
+    padding:0;
+}
+.g-title>p{
+    margin: 5px 30px;
+    font-size: 18px;
+}
+.g-content{
+    width:100%;
+    margin:10px;
+}
+.g-content2{
+    width:calc( 100% - 30px );
+    height:400px;
+    margin:10px;
+}
+.g-content4{
+    width:calc( 100% - 30px );
+    height:400px;
+    margin:10px;
+}
+.g-sider-2{
+    height:250px!important;
+}
+.g-sider-2>div{
+    padding:0!important;
+    margin:0!important;
+}
